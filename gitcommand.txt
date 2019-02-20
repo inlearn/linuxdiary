@@ -1,0 +1,13 @@
+git log 显示从近到远的提交日志
+git log --pretty=oneline 一行里显示
+git reset --hard HEAD^ 上一版本
+git reset --hard HEAD^^ 上上一版本
+git reset --hard HEAD~100 之前第100个版本
+
+git reset --hard 版本号的前几个字母  回退到这个commitid的版本
+
+git reflog 显示所有所有commitid
+
+git add 把文件修改添加到暂存区；
+git commit 把暂存区的内容提交到当前分支
+
