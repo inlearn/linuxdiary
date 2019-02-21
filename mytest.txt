@@ -1,0 +1,4 @@
+真不幸，我的内容从工作区add到了暂存区，
+用 git checkout -- filename 只能回到 最近一
+次add或者commit的状态，也就是从丢弃工作区的修改
+用git reset HEAD filename 就能把暂存区的内容返到工作区
