@@ -11,3 +11,5 @@ git reflog 显示所有所有commitid
 git add 把文件修改添加到暂存区；
 git commit 把暂存区的内容提交到当前分支
 
+git diff 比较的是工作区文件与暂存区文件的区别（上次git add的文件）
+git diff --cached 比较的是暂存区的文件与仓库分支里文件的区别（上次git commit 后的文件）

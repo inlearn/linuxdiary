@@ -1,2 +1,3 @@
 i am a new file.
 i am a new file at the working directory.
+我搞错了，我才是工作区，刚才那个工作区英文的是暂存区的东西。
